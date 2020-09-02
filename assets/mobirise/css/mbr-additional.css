@@ -1196,6 +1196,50 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s9ptgdqEhp {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s9ptgdqEhp .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s9ptgdqEhp .section-text {
+  padding: 2rem 0;
+  color: #f30e0e;
+}
+.cid-s9ptgdqEhp .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s9ptgdqEhp .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s9poBbpl6o {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/chemistry-masters-hero-1800x583.jpg");
+}
+.cid-s9poBbpl6o h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s9poBbpl6o p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s9poBbpl6o .card-box {
+  padding-top: 2rem;
+}
+.cid-s9poBbpl6o .card-wrapper {
+  height: 100%;
+}
 .cid-s81oaXhnPC {
   padding-top: 15px;
   padding-bottom: 15px;
